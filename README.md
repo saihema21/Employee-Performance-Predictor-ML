@@ -116,6 +116,11 @@ Data Collection → Data Cleaning → Exploratory Data Analysis → Feature Engi
 
 ---
 
+## Demo Video
+https://youtu.be/8ZX5SA9_DZ0
+
+---
+
 ## 📈 Results
 
 * Achieved accuracy of approximately **85%+**
